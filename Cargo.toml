@@ -1,0 +1,11 @@
+[package]
+name = "rust_reg"
+version = "0.1.0"
+authors = ["AlbertoCaballero <albertocaballero80@outlook.com>"]
+
+[lib]
+name = "linear_reg"
+path = "src/lib.rs"
+
+[dependencies]
+plotlib = "0.3.0"
